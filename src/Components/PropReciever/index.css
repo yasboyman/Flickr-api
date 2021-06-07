@@ -5,6 +5,8 @@
     overflow: hidden;
     position: relative;
     color: white;
+    box-shadow:-25px 50px 30px rgba(0,0,0,0.125);
+    border:0;
     /*cursor: pointer;*/
     /*border: solid 1px yellow;*/
 }
