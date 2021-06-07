@@ -1,0 +1,10 @@
+.card-container{
+    display: flex;
+    width: 200px;
+    margin: 1rem;
+    overflow: hidden;
+    position: relative;
+    color: white;
+    /*cursor: pointer;*/
+    /*border: solid 1px yellow;*/
+}
